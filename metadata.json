@@ -1,0 +1,8 @@
+{
+  "name": "Multi-Modal AI Assistant",
+  "description": "A unified AI assistant integrating Computer Vision (Image Classification, Object Detection) and Speech Processing (STT, TTS) using Google Gemini models.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
